@@ -20,8 +20,8 @@ node index.js
 
 Please enter the following;
 
-1. File name you desire for generating the HTML,
-2. Title of the HTML file,
+1. File name you desire for generating the *HTML*,
+2. Title of the *HTML* file,
 3. If *CSS* external link is needed,
 4. If *JS* external link is needed,
 5. Select the follwing options to include the link in the file:
@@ -29,6 +29,7 @@ Please enter the following;
     * `Bootstrap`
     * `Materialize`
     * `Font Awesome`
+6. Selected links & files are generated within the `generated-files` folder.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please contact me through kemal.demirgil@hotmail.com for any questions.
