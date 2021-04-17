@@ -1,3 +1,7 @@
+![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/HTML-GENERATOR?color=yellow&label=JavaScript&logo=JavaScript)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kemaldemirgil/HTML-GENERATOR?color=cyan&label=Pull%20Requests&logo=github&logoColor=cyan)
+![GitHub](https://img.shields.io/github/license/kemaldemirgil/HTML-GENERATOR?color=orange&label=License&logo=github&logoColor=orange)
+
 # HTML-GENERATOR
 
 ## Description
