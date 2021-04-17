@@ -1,0 +1,15 @@
+{
+  "name": "html_generator",
+  "version": "1.0.0",
+  "description": "This is a simple html file generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KD",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0"
+  }
+}
