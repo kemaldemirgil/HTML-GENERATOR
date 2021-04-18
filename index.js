@@ -64,13 +64,13 @@ inquirer .prompt([
 ])
 
 .then((response) => {
-  if (response.css) {fs.writeFile("./generated-files/" + "style.css", "", (err) => err ? console.log(err) : console.log(`\nCSS Generated`));}
-  if (response.js) {fs.writeFile("./generated-files/" + "script.js", "", (err) => err ? console.log(err) : console.log('JS Generated'));}
+  if (response.css) {fs.writeFile("../generated-files/" + "style.css", "", (err) => err ? console.log(err) : console.log(`\nCSS Generated`));}
+  if (response.js) {fs.writeFile("../generated-files/" + "script.js", "", (err) => err ? console.log(err) : console.log('JS Generated'));}
   if (response.links.includes("JQuery")) { jQuery = true;}
   if (response.links.includes("Bootstrap")) { bootstrap = true;}
   if (response.links.includes("Materialize")) { materialize = true;}
   if (response.links.includes("Font Awesome")) { fa = true;}
   const filename = `${response.name.toLowerCase().split(' ').join('')}.html`;
   const template = generatedHTML(response);
-  fs.writeFile("./generated-files/" + filename, template, (err) => err ? console.log(err) : console.log(`HTML Generated \n\n\nThanks for using the HTML GENERATOR created by github.com/kemaldemirgil`));
+  fs.writeFile("../generated-files/" + filename, template, (err) => err ? console.log(err) : console.log(`HTML Generated \n\n\nThanks for using the HTML GENERATOR created by github.com/kemaldemirgil`));
 });

@@ -1,15 +1,24 @@
 {
-  "name": "html_generator",
+  "name": "HTML-GENERATOR",
   "version": "1.0.0",
-  "description": "This is a simple html file generator",
+  "description": "![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/HTML-GENERATOR?color=yellow&label=JavaScript&logo=JavaScript) ![GitHub pull requests](https://img.shields.io/github/issues-pr/kemaldemirgil/HTML-GENERATOR?color=cyan&label=Pull%20Requests&logo=github&logoColor=cyan) ![GitHub](https://img.shields.io/github/license/kemaldemirgil/HTML-GENERATOR?color=orange&label=License&logo=github&logoColor=orange)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node index.js"
   },
-  "author": "KD",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemaldemirgil/HTML-GENERATOR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kemaldemirgil/HTML-GENERATOR/issues"
+  },
+  "homepage": "https://github.com/kemaldemirgil/HTML-GENERATOR#readme",
   "dependencies": {
-    "fs": "0.0.1-security",
     "inquirer": "^8.0.0"
   }
 }
