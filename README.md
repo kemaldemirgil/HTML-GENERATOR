@@ -1,6 +1,6 @@
-![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/HTML-GENERATOR?color=yellow&label=JavaScript&logo=JavaScript)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/kemaldemirgil/HTML-GENERATOR?color=cyan&label=Pull%20Requests&logo=github&logoColor=cyan)
-![GitHub](https://img.shields.io/github/license/kemaldemirgil/HTML-GENERATOR?color=orange&label=License&logo=github&logoColor=orange)
+![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/autolinks?color=yellow&label=JavaScript&logo=JavaScript)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kemaldemirgil/autolinks?color=cyan&label=Pull%20Requests&logo=github&logoColor=cyan)
+![GitHub](https://img.shields.io/github/license/kemaldemirgil/autolinks?color=orange&label=License&logo=github&logoColor=orange)
 
 # HTML-GENERATOR
 
@@ -43,4 +43,4 @@ I am looking forward to create actual HTML templates with built in components us
 
 ## License
 Copyright © Kemal Demirgil. All rights reserved.\
-Licensed under the [MIT](https://github.com/kemaldemirgil/HTML-GENERATOR/blob/main/LICENSE) license.
+Licensed under the [MIT](https://github.com/kemaldemirgil/autolinks/blob/main/LICENSE) license.
